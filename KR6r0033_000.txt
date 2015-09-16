@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 天尊說阿育王譬喻經
+#+DATE: 2015-08-30 22:15:04.576465
+#+PROPERTY: JUAN 0
