@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:15:04.791193
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:10
 #+TITLE: 天尊說阿育王譬喻經
 #+PROPERTY: CBETA_ID T50n2044
 #+PROPERTY: ID KR6r0033
